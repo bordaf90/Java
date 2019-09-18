@@ -1,0 +1,7 @@
+En este proyecto almacenamos datos de empleados, pero con la particularidad de tener un único nro Id creciente, cuyo incremento
+va de uno en uno.
+
+La clave está en las variables Id e IdSiguiente.
+
+
+
