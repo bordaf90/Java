@@ -1,0 +1,23 @@
+Este proyecto muestra datos de una serie de empleados donde se le aumenta el sueldo porcentualmente.
+
+
+Está construido enteramente sobre un mismo fichero, lo cual no es una buena práctica, pero lo hice asi para probar.
+
+Dentro de la Clase Main hay dos caminos para guardar y mostrar los datos:
+1) Instancia + Setters + Getters tradicional.
+2) Con Arrays y For.
+
+Repasemos la estructura:
+
+Clase Main: aca van las instancias y las muestras en pantalla.
+
+Luego, sigue:
+
+Clase.
+Método Costructor.
+Variables con Modificador de Acceso.
+Getters.
+Setters.
+
+
+Como novedad usamos una API que contenía al calendario, y se empezó a ver el concepto de Herencia para entender dicha API.
