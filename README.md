@@ -3,10 +3,11 @@
 Pequeños Proyectos
 
 
-En este lugar se muestran los proyectos que voy construyendo.
+En este repositorio se muestran los proyectos que voy construyendo.
 
 Proyecto 1: Coche.
-Proyecto 2: Empleado
+
+Proyecto 2: Empleado.
 
 
 
