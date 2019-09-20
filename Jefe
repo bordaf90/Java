@@ -1,0 +1,7 @@
+Este proyecto busca construir de manera ordenada una buena Herencia entre el proyecto Empleado y este nuevo 
+que se da a partir de agregarle Jefes.
+
+En este caso utilizamos "extends" para construir la Herencia, luego el "super" para hacer diferencias entre Clases, 
+y finalmente utilizamos Polimorfismos.
+
+
