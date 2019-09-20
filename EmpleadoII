@@ -1,0 +1,3 @@
+En este caso tomamos el proyecto Empleado anterior pero creamos varios métodos constructores, y además, vemos cómo dejar 
+parámetros prefijados.
+Finalmente conceptualizamos llamados entre distintos métodos constructores con this.
